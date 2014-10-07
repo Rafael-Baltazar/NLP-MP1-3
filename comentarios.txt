@@ -1,2 +1,6 @@
-Comentarios aqui
+**********GRUPO 3***********
+| Marcos Germano,  nº69721 |
+| Rafael Baltazar, nº70116 |
+****************************
 
+Quanto à correção desta solução, podemos afirmar que os nossos transdutores fazem a conversão correcta de números e datas, de árabe para romano e vice-versa. Quanto à complexidade dos transdutores em si, achamos que possam existir outras maneiras de obter os mesmos resultados usando transdutores mais simples, embora não fiquem muito mais simples do que os que já temos, o que já torna a nossa solução bastante viável para o que é pretendido com este mini-projecto. Como decidimos optar por ignorar os "0" à esquerda presentes nos inputs de datas e números, aquando da criação dos transdutores, tivemos que acrescentar um pouco de complexidade ao projecto, embora, desta forma, as nossas conversões agora possuam uma maior flexibilidade, quanto aos inputs que possam receber.
