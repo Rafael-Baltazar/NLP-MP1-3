@@ -1,0 +1,14 @@
+0	1	eps	X
+1	2	eps	X
+2	3	eps	X
+3	4	eps	I
+4	5	eps	/
+5	6	eps	V
+6	7	eps	I
+7	8	eps	I
+8	9	eps	/
+9	10	eps	M
+10	11	eps	M
+11	12	eps	I
+12	13	eps	X
+13
